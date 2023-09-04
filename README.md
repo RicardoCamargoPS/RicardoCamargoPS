@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil no GitHub!
 
-<p align="justify"> Olá, Me chamo Ricardo e sou estudante de Análise e Desenvolvimento de Sistemas na Unip. Sou apaixonado vários aspectos do desenvolvimento de software.
+<p align="justify"> Olá, Me chamo Ricardo e sou estudante de Análise e Desenvolvimento de Sistemas, Tenho um grande interesse pela área de desenvolvimento de software, especialmente games.
 
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/ricardocamargoprado-da-silva-908b2b170)
